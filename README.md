@@ -54,12 +54,6 @@ Aktuell vertiefe ich mich in agentic AI-Systeme mit LangGraph und multi-step rea
 
 ---
 
-## 📊 GitHub Stats
-
-![Suleiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuleimanAlbalkhi&show_icons=true&hide_border=true&theme=default&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuleimanAlbalkhi&layout=compact&hide_border=true&theme=default)
-
----
 
 ## 📫 Kontakt
 
