@@ -42,5 +42,5 @@ Metrics: mAP · IoU · Precision · Recall | Focus: XAI in safety-critical syste
 
 ---
 
-📫 Open to **Werkstudent / part-time roles** in AI Engineering or LLM Development — NRW region  
+📫 Open to **Werkstudent / part-time roles** in AI Engineering or LLM Development — Germany, NRW region  
 [LinkedIn](https://www.linkedin.com/in/suleiman-albalkhi-268b1a271/) · [Email](mailto:suleimanalbalkhi@gmail.com)
