@@ -10,21 +10,21 @@ Currently going deep on agentic AI with LangGraph and multi-step reasoning pipel
 
 ###  Projects
 
-** Research Engine** — LangGraph Agentic Research Agent → [research-engine](https://github.com/SuleimanAlbalkhi/research-engine)
+**Research Engine** — LangGraph Agentic Research Agent → [research-engine](https://github.com/SuleimanAlbalkhi/research-engine)
 Topic → sourced research report with human query approval and scored self-correction
 `LangGraph` `Human-in-the-Loop` `DuckDuckGo / Tavily` `Pydantic v2` `Ollama / OpenAI`
 Parallel web search · evaluate→retry loop · swappable LLM and search backends
 
-** Multi-Tenant RAG SaaS Platform** → [rag-saas-platform](https://github.com/SuleimanAlbalkhi/rag-saas-platform)  
+**Multi-Tenant RAG SaaS Platform** → [rag-saas-platform](https://github.com/SuleimanAlbalkhi/rag-saas-platform)  
 Production-ready document Q&A with full per-user data isolation  
 `FastAPI` `Next.js 15` `PostgreSQL + pgvector` `JWT Auth` `SSE Streaming` `Docker Compose`  
 Refresh token rotation · Background ingestion · Configurable LLM (Claude / OpenAI)
 
-** On-Premise RAG Chatbot (Privacy-First)** → [rag-chatbot](https://github.com/SuleimanAlbalkhi/rag-chatbot)  
+**On-Premise RAG Chatbot (Privacy-First)** → [rag-chatbot](https://github.com/SuleimanAlbalkhi/rag-chatbot)  
 Local LLM chatbot for SMEs — no API keys, no cloud, no data leaves the machine  
 `LangChain` `Ollama (Llama 3.2:3b)` `ChromaDB` `nomic-embed-text` `Streamlit`
 
-** Bachelor's Thesis: Explainable Computer Vision**  
+**Bachelor's Thesis: Explainable Computer Vision**  
 Comparison & validation of YOLOv12nano vs. U-Net for weapon detection & segmentation  
 `PyTorch` `YOLOv12` `U-Net` `Grad-CAM++` `Explainable AI`  
 Metrics: mAP · IoU · Precision · Recall | Focus: XAI in safety-critical systems
