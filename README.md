@@ -35,7 +35,8 @@ Metrics: mAP · IoU · Precision · Recall | Focus: XAI in safety-critical syste
 
 **AI & ML**  
 `LangChain` `LangGraph` `RAG` `Ollama` `ChromaDB` `pgvector` `PyTorch`  
-`YOLOv8–v12` `U-Net` `Grad-CAM++` `Hugging Face` `Prompt Engineering`
+`YOLOv8–v12` `U-Net` `Grad-CAM` `Hugging Face` 
+`Prompt Engineering` `CNN`
 
 **Backend & Infrastructure**  
 `Python` `FastAPI` `PostgreSQL` `Docker` `REST APIs` `JWT`
