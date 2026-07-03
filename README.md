@@ -30,7 +30,7 @@ Production-ready document Q&A with full per-user data isolation.
 Local LLM chatbot for SMEs — no API keys, no cloud, no data leaves the machine.
 `LangChain` `Ollama (Llama 3.2:3b)` `ChromaDB` `nomic-embed-text` `Streamlit`
 
-### Bachelor's Thesis: Explainable Computer Vision
+### [explainable-pistol-detection] (https://github.com/SuleimanAlbalkhi/explainable-pistol-detection) - Bachelor's Thesis: Explainable Computer Vision
 Comparison & validation of YOLOv12-nano vs. U-Net for weapon detection & segmentation.
 `PyTorch` `YOLOv12` `U-Net` `Grad-CAM++` `Explainable AI`
 → Metrics: mAP · IoU · Precision · Recall | Focus: XAI in safety-critical systems
