@@ -21,10 +21,6 @@ Sourced research report with human query approval and scored self-correction.
 `LangGraph` `Human-in-the-Loop` `DuckDuckGo / Tavily` `Pydantic v2` `Ollama / OpenAI`
 → Parallel web search · evaluate→retry loop · swappable LLM and search backends
 
-### [Multi-Tenant RAG SaaS Platform](https://github.com/SuleimanAlbalkhi/rag-saas-platform)
-Production-ready document Q&A with full per-user data isolation.
-`FastAPI` `Next.js 15` `PostgreSQL + pgvector` `JWT Auth` `SSE Streaming` `Docker Compose`
-→ Refresh token rotation · Background ingestion · Configurable LLM (Claude / OpenAI)
 
 ### [On-Premise RAG Chatbot](https://github.com/SuleimanAlbalkhi/rag-chatbot) — Privacy-First
 Local LLM chatbot for SMEs — no API keys, no cloud, no data leaves the machine.
