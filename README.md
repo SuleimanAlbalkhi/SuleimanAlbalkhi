@@ -1,6 +1,6 @@
 ## Hi, I'm Suleiman
 
-**AI Engineering Student · M.Sc. Computer Science @ University of Duisburg-Essen**
+**AI Engineering Student · B.Sc. Computer Science @ University of Duisburg-Essen**
 Focus: LLM Engineering · Agentic AI · Retrieval-Augmented Generation · Computer Vision
 
 I build AI systems with **production in mind** — from architecture to deployment.
