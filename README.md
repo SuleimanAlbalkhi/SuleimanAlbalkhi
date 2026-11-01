@@ -55,6 +55,6 @@ Comparison & validation of YOLOv12-nano vs. U-Net for weapon detection & segment
 
 ## 📫 Get in touch
 
-Open to **Werkstudent / part-time roles** in AI Engineering or LLM Development — Germany, NRW region.
+Open to ** full-time roles** in AI Engineering or LLM Development — Germany, NRW region.
 
 [LinkedIn](https://linkedin.com/in/...) · [Email](mailto:suleimanalbalkhi@gmail.com)
